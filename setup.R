@@ -32,7 +32,7 @@ install.packages("LaplacesDemon") # For multivariate Cauchy
 ## It is also sometimes necessary to launch RStudio from an admin account.
 
 # This modificaiton of coda allows for plotting of priors with plot.dmc
-install.packages("packages/coda_0.19-3.tar.gz",repos=NULL,type="source")
+install.packages("packages/coda_0.19-3.tar.gz", repos = NULL, type = "source")
 ## -- Installation Note
 ## On RStudio, you may use the "Install" button in the "Packages" tab.
 ## From its drop-down menu, choose "Package Archive File (.tar.gz)" to
